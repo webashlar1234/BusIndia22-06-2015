@@ -1,0 +1,2 @@
+D:\AllProject\WindowsPhoneProject\BackupBusIndia\BusFormat\BusIndia\BusIndia_Universal\BusIndia_Universal.WindowsPhone\BusIndia_Universal.WindowsPhone.csproj;neutral
+D:\AllProject\WindowsPhoneProject\BackupBusIndia\BusFormat\BusIndia\BusIndiaBLL\BusIndiaBLL.csproj;neutral
